@@ -1,8 +1,8 @@
-version: 1.8.2
+version: 1.8.3
 files:
-  - url: MedicalSuite-Setup-1.8.2.exe
-    sha512: W/bmUQbp7eP9p7LzUg6NHnbsNgnw8ud/6B4eAveG0xEqIKhNGzSch6YTa2lMvofEyGKU+hZPeE3DzsPr1HxyjQ==
-    size: 100184471
-path: MedicalSuite-Setup-1.8.2.exe
-sha512: W/bmUQbp7eP9p7LzUg6NHnbsNgnw8ud/6B4eAveG0xEqIKhNGzSch6YTa2lMvofEyGKU+hZPeE3DzsPr1HxyjQ==
-releaseDate: '2026-09-22T06:54:43.470Z'
+  - url: MedicalSuite-Setup-1.8.3.exe
+    sha512: uWlbne4GEN5BdJDz96cI0vox1rQZ0mU9QFRBliXuQDcxl9VM9X+GhWkAxo+ibGzHqBRAJX5Zv9+OeidTTIhDeg==
+    size: 100185830
+path: MedicalSuite-Setup-1.8.3.exe
+sha512: uWlbne4GEN5BdJDz96cI0vox1rQZ0mU9QFRBliXuQDcxl9VM9X+GhWkAxo+ibGzHqBRAJX5Zv9+OeidTTIhDeg==
+releaseDate: '2026-09-24T00:53:07.303Z'
